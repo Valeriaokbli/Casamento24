@@ -1,0 +1,94 @@
+﻿<casamento.html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nosso Casamento</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background-color: #ffffff;
+            text-align: center;
+            padding: 50px 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #333;
+        }
+        section {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #444;
+            font-size: 2em;
+            margin-top: 0;
+        }
+        p {
+            line-height: 1.6;
+            margin: 10px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+
+    <header>
+        <h1>Nosso Casamento</h1>
+    </header>
+
+
+    <section>
+        <h2>Bem-vindos!</h2>
+        <p>Estamos muito felizes em compartilhar esse momento especial com vocês. Aqui, vocês encontrarão todas as informações necessárias sobre o nosso casamento.</p>
+    </section>
+
+
+    <section>
+        <h2>Detalhes do Evento</h2>
+        <p><strong>Data:</strong> 30 de novembro de 2024</p>
+        <p><strong>Horário:</strong> 11:00</p>
+        <p><strong>Local:</strong> Espaço sandrinks, Rua cotias lebre, bom Jesus da Lapa</p>
+    </section>
+
+
+    <section>
+        <h2>RSVP</h2>
+        <p>Por favor, confirme sua presença até o dia 15 de outubro de 2024.</p>
+        <p>Você pode confirmar sua presença enviando um e-mail para <a href="Valerie.medeiros014@gmail.com">Valerie.medeiros014@gmail.com </a> ou através do telefone (77) 99927-4555 ou (77) 99937-8784.</p>
+    </section>
+
+
+    <section>
+        <h2>Lista de Presentes</h2>
+        <p>Se você desejar nos presentear, criamos uma lista de presentes disponível via whatsapp. Agradecemos de coração!</p>
+    </section>
+
+
+    <footer>
+        <p>Com amor, [Valéria] & [Eduardo]</p>
+    </footer>
+
+
+</body>
+</html>
